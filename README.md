@@ -1,3 +1,3 @@
 # Example UI
 
-![gif](./assets/Ui.gif)
+![](./assets/Ui.gif)
