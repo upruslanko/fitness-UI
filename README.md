@@ -1,3 +1,3 @@
 # Example UI
 
-![](./assets/Ui.gif)
+![](https://giphy.com/gifs/WKAYP3kgiHG8ipmVw4/fullscreen)
